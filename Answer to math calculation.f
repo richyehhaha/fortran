@@ -1,5 +1,5 @@
       Program main
-
+!123456
       Integer i
 	Real*8 A,B,C,Increment
 
